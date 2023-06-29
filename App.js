@@ -2,7 +2,6 @@ import { Ionicons } from "@expo/vector-icons";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
-import ArticlesScreen from "./components/screens/ArticlesScreen";
 import BlogDetailsScreen from "./components/screens/BlogDetailsScreen";
 import HomeScreen from "./components/screens/HomeScreen";
 
